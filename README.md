@@ -1,4 +1,4 @@
-# SwiftasticSwiftResources
+# Swiftastic Resources
 
 ### Resources
 * [Design Inspiration](#design-inspiration)
